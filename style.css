@@ -146,7 +146,7 @@ span {
     } 
     
     .wrapper-2 {
-        padding: 0 0 10px 0;
+        padding: 0 0 10px -3em;
         background:rgb(5, 1, 39);
         align-self: center;
     }
