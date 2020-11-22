@@ -13,6 +13,8 @@ body {
 
 .container {
     display: flex;
+    justify-content: center;
+    align-items: center;
     background: rgb(5, 1, 39);
     padding: 60px 0 0 0;
     box-sizing: border-box;
