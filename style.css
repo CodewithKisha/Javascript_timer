@@ -24,6 +24,10 @@ body {
     padding: 4rem;
 }
 
+.content p {
+    padding: 0 0 6em 0;
+}
+
 h1 {
     font-size: 50px;
     font-weight: 800;
