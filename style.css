@@ -14,7 +14,7 @@ body {
 .container {
     display: flex;
     background: rgb(5, 1, 39);
-    padding: 60px;
+    padding: 60px 0 0 0;
     box-sizing: border-box;
 }
 
@@ -22,10 +22,6 @@ body {
     background:rgb(5, 1, 39);
     color: #fff; 
     padding: 4rem;
-}
-
-.content p {
-    padding: 0 0 6em 0;
 }
 
 h1 {
@@ -50,7 +46,7 @@ p {
     font-size: 14px;
     color: rgba(240, 207, 163, 0.527);
     line-height: 1.5;
-    padding-top: 20px;
+    padding: 0 0 6em 0;
 }
 
 .btn {
